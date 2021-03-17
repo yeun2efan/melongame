@@ -2,8 +2,12 @@
 트위치 짱옌 https://www.twitch.tv/yeun2e/
 
 바꿀 사진 추천 받습니다.
+
 짱옌 트게더 댓글에 달아주세요.
+
 https://tgd.kr/s/yeun2e/52249252
+
+원본 깃허브 링크 : https://github.com/liyupi/daxigua
 
 
 # 合成大西瓜
